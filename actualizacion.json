@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "patch_repository": "iShun05/PvZ-Fusion-ES",
+  "base_repository": "Teyliu/PVZF-Translation",
+  "base_tag": "4.0.5_alpha",
+  "base_asset": "PvZ.Fusion.Multi-lang.4.0.5.2.Alpha.by.Blooms.zip",
+  "base_sha256": "6208af094df244e5f87e439c850127532b86ce0c522b54776851600059bc55e9",
+  "base_files": {
+    "GameAssembly.dll": "48096b917ee6aaf6e35c95c98e666a4399a9e0c3d5adbab727cee941eccf2d42",
+    "PlantsVsZombiesRH.exe": "d38afabdc98f8d910dba495fc8eb0868965aa0251a96db190ffba3773704f5b1"
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "variante_tejado_original_conservada": true,
+  "variantes": [
+    {
+      "variante": "oro",
+      "casilla": [
+        0,
+        800,
+        768,
+        1150
+      ],
+      "limites_visibles": [
+        3,
+        809,
+        741,
+        1143
+      ]
+    },
+    {
+      "variante": "turquesa",
+      "casilla": [
+        0,
+        1150,
+        768,
+        1600
+      ],
+      "limites_visibles": [
+        1,
+        1160,
+        768,
+        1589
+      ]
+    },
+    {
+      "variante": "azul",
+      "casilla": [
+        768,
+        1150,
+        1536,
+        1600
+      ],
+      "limites_visibles": [
+        768,
+        1181,
+        1500,
+        1566
+      ]
+    },
+    {
+      "variante": "estelar",
+      "casilla": [
+        768,
+        1600,
+        1536,
+        2048
+      ],
+      "limites_visibles": [
+        768,
+        1615,
+        1509,
+        2024
+      ]
+    }
+  ],
+  "dimensiones": {
+    "Textures/Particles/ExplosionPowie.png": [
+      200,
+      200
+    ],
+    "Textures/Particles/Doom.png": [
+      200,
+      200
+    ],
+    "Textures/Particles/Pow.png": [
+      136,
+      124
+    ],
+    "Textures/Particles/ExplosionSpudow.png": [
+      200,
+      200
+    ],
+    "Textures/Particles/SunExplosionPowie.png": [
+      200,
+      200
+    ],
+    "Textures/Particles/Sproing.png": [
+      200,
+      200
+    ],
+    "Textures/Particles/guang.png": [
+      136,
+      96
+    ],
+    "Textures/Game/HugeWave.png": [
+      289,
+      36
+    ],
+    "Textures/Game/StartSet.png": [
+      300,
+      133
+    ],
+    "Textures/Game/FlagMeterLevelProgress.png": [
+      86,
+      11
+    ],
+    "Textures/Game/StartReady.png": [
+      300,
+      133
+    ],
+    "Textures/Game/Graves.png": [
+      1676,
+      1416
+    ],
+    "Textures/Game/FinalWave.png": [
+      341,
+      80
+    ],
+    "Textures/Game/StartPlant.png": [
+      300,
+      133
+    ],
+    "Textures/Game/SeedChooser_Background.png": [
+      468,
+      516
+    ],
+    "Textures/Logo/Logo3.0.png": [
+      1468,
+      1092
+    ],
+    "Textures/Logo/LogoSnow.png": [
+      1496,
+      920
+    ],
+    "Textures/Logo/标题合集.png": [
+      2048,
+      2048
+    ],
+    "Textures/Menu/MainMenutravel.png": [
+      1024,
+      2048
+    ],
+    "Textures/Menu/SelectorScreen_Adventure_button.png": [
+      332,
+      120
+    ],
+    "Textures/Menu/SelectorScreen_BG_Center.png": [
+      720,
+      348
+    ],
+    "Textures/Menu/SelectorScreen_Shadow_StartAdventure.png": [
+      352,
+      152
+    ],
+    "Textures/Menu/SelectorScreen_Shadow_Challenge.png": [
+      288,
+      128
+    ],
+    "Textures/Menu/travel.png": [
+      1024,
+      1024
+    ],
+    "Textures/Menu/SelectorScreen_Quit2.png": [
+      47,
+      27
+    ],
+    "Textures/Menu/SelectorScreen_WoodSign1.png": [
+      296,
+      152
+    ],
+    "Textures/Menu/SelectorScreen_WoodSign3.png": [
+      92,
+      40
+    ],
+    "Textures/Menu/SelectorScreen_LevelNumbers.png": [
+      120,
+      17
+    ],
+    "Textures/Menu/SelectorScreen_Quit1.png": [
+      47,
+      27
+    ],
+    "Textures/Menu/SelectorScreen_WoodSign2.png": [
+      292,
+      72
+    ],
+    "Textures/Menu/深渊入口.png": [
+      1024,
+      1024
+    ],
+    "Textures/Menu/SelectorScreen_Help1.png": [
+      48,
+      24
+    ],
+    "Textures/Menu/SelectorScreen_Vasebreaker_button.png": [
+      268,
+      124
+    ],
+    "Textures/Menu/SelectorScreen_vasebreaker_highlight.png": [
+      268,
+      124
+    ],
+    "Textures/Menu/SelectorScreen_Help2.png": [
+      48,
+      24
+    ],
+    "Textures/Menu/SelectorScreen_BG.png": [
+      100,
+      75
+    ],
+    "Textures/Menu/SelectorScreen_Challenge_highlight.png": [
+      316,
+      136
+    ],
+    "Textures/Menu/SelectorScreen_Shadow_Survival.png": [
+      320,
+      136
+    ],
+    "Textures/Menu/SelectorScreen_Shadow_ZenGarden.png": [
+      272,
+      128
+    ],
+    "Textures/Menu/SelectorScreen_almanac_key_shadow.png": [
+      184,
+      112
+    ],
+    "Textures/Menu/SelectorScreen_ZenGardenHighlight.png": [
+      192,
+      164
+    ],
+    "Textures/Menu/SelectorScreen_Leaves.png": [
+      240,
+      62
+    ],
+    "Textures/Menu/SelectorScreen_Flower1.png": [
+      36,
+      48
+    ],
+    "Textures/Menu/SelectorScreen_Flower3.png": [
+      48,
+      56
+    ],
+    "Textures/Menu/TowerEnter.png": [
+      512,
+      1024
+    ],
+    "Textures/Menu/options_menuback.png": [
+      420,
+      504
+    ],
+    "Textures/Menu/SelectorScreen_Flower2.png": [
+      44,
+      44
+    ],
+    "Textures/Menu/SelectorScreen_Challenge_button.png": [
+      316,
+      136
+    ],
+    "Textures/Menu/SelectorScreen_BG_Right.png": [
+      740,
+      588
+    ],
+    "Textures/Menu/SelectorScreen_WoodSign2_press.png": [
+      292,
+      72
+    ],
+    "Textures/Menu/SelectorScreen_Challenges_highlight.png": [
+      288,
+      124
+    ],
+    "Textures/Menu/SelectorScreen_StoreHighlight.png": [
+      130,
+      89
+    ],
+    "Textures/Menu/SelectorScreen_key_shadow.png": [
+      184,
+      112
+    ],
+    "Textures/Menu/SelectorScreen_Travel.png": [
+      168,
+      128
+    ],
+    "Textures/Menu/NewAdv.png": [
+      256,
+      512
+    ],
+    "Textures/Menu/MainMenu3.0.png": [
+      1024,
+      2048
+    ],
+    "Textures/Menu/tree.png": [
+      1268,
+      1376
+    ],
+    "Textures/Menu/SelectorScreen_Store.png": [
+      130,
+      89
+    ],
+    "Textures/Menu/SelectorScreen_Adventure_highlight.png": [
+      332,
+      120
+    ],
+    "Textures/Menu/x_0002_SelectorScreen_BG_Right.png": [
+      740,
+      588
+    ],
+    "Textures/Menu/SelectorScreen_Almanac.png": [
+      100,
+      100
+    ],
+    "Textures/Menu/钥匙经典.png": [
+      1024,
+      1024
+    ],
+    "Textures/Menu/SelectorScreen_Cloud6.png": [
+      76,
+      44
+    ],
+    "Textures/Menu/SelectorScreen_Leaf3.png": [
+      49,
+      66
+    ],
+    "Textures/Menu/MainMenu.png": [
+      2048,
+      2048
+    ],
+    "Textures/Menu/SelectorScreen_almanac_shadow.png": [
+      184,
+      112
+    ],
+    "Textures/Menu/SelectorScreen_Leaf2.png": [
+      34,
+      33
+    ],
+    "Textures/Menu/SelectorScreen_Shadow_Adventure.png": [
+      340,
+      128
+    ],
+    "Textures/Menu/SelectorScreen_Cloud7.png": [
+      212,
+      76
+    ],
+    "Textures/Menu/SelectorScreen_AlmanacHighlight.png": [
+      100,
+      100
+    ],
+    "Textures/Menu/thanks.png": [
+      1400,
+      600
+    ],
+    "Textures/Menu/SelectorScreen_Cloud5.png": [
+      436,
+      144
+    ],
+    "Textures/Menu/mysterious_highlight.png": [
+      216,
+      192
+    ],
+    "Textures/Menu/SelectorScreen_Leaf1.png": [
+      40,
+      41
+    ],
+    "Textures/Menu/SZW.png": [
+      2048,
+      2048
+    ],
+    "Textures/Menu/SelectorScreen_Cloud4.png": [
+      240,
+      92
+    ],
+    "Textures/Menu/SelectorScreen_Options1.png": [
+      81,
+      31
+    ],
+    "Textures/Menu/SelectorScreen_ZenGarden.png": [
+      192,
+      164
+    ],
+    "Textures/Menu/SelectorScreen_Leaf5.png": [
+      25,
+      37
+    ],
+    "Textures/Menu/SelectorScreen_Leaf4.png": [
+      32,
+      45
+    ],
+    "Textures/Menu/SelectorScreen_Cloud1.png": [
+      220,
+      208
+    ],
+    "Textures/Menu/SelectorScreen_Options2.png": [
+      81,
+      31
+    ],
+    "Textures/Menu/SelectorScreen_Challenges_button.png": [
+      288,
+      124
+    ],
+    "Textures/Menu/mysterious.png": [
+      216,
+      192
+    ],
+    "Textures/Menu/SelectorScreen_Cloud2.png": [
+      152,
+      124
+    ],
+    "Sprites/Particles/ExplosionPowie.png": [
+      200,
+      200
+    ],
+    "Sprites/Particles/Doom.png": [
+      200,
+      200
+    ],
+    "Sprites/Particles/Dong.png": [
+      920,
+      652
+    ],
+    "Sprites/Particles/Pow.png": [
+      136,
+      124
+    ],
+    "Sprites/Particles/ExplosionSpudow.png": [
+      200,
+      200
+    ],
+    "Sprites/Particles/SunExplosionPowie.png": [
+      200,
+      200
+    ],
+    "Sprites/Particles/Sproing.png": [
+      200,
+      200
+    ],
+    "Sprites/Particles/guang.png": [
+      136,
+      96
+    ]
+  }
+}

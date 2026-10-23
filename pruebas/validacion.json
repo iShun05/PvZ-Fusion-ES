@@ -1,0 +1,37 @@
+{
+  "version": "v0.1",
+  "strings": {
+    "Strings/translation_strings.json": 3584,
+    "Strings/custom_level_data.json": 160,
+    "Strings/travel_buffs.json": 1018,
+    "Strings/customlevel_regexs.json": 90,
+    "Strings/abyss_buffs.json": 132,
+    "Strings/customlevel_strings.json": 269,
+    "Strings/translation_regexs.json": 502,
+    "Strings/tips_iz.json": 92,
+    "Strings/gods_evolved.json": 0,
+    "Strings/tips_fs.json": 202,
+    "Almanac/ZombieStringsTranslate.json": 708,
+    "Almanac/DetailStringsTranslate.json": 79,
+    "Almanac/LawnStringsTranslate.json": 2880
+  },
+  "total_strings": 9716,
+  "errors": [],
+  "fecha": "2026-10-23",
+  "archivos_paquete": 108,
+  "texturas_dimensiones_verificadas": 93,
+  "plantas": 720,
+  "zombis": 236,
+  "pruebas_python": {
+    "ejecutadas": 11,
+    "resultado": "correcto",
+    "interprete": "Python 3 de macOS"
+  },
+  "verificacion_visual": "El usuario confirma que aparece el menú, Tienda y Puzles en español, sin consola.",
+  "instalacion_real": "108 de 108 hashes coinciden con el paquete.",
+  "limites": [
+    "Windows no comprobado en un equipo Windows real.",
+    "La actualización a otra base se prueba en un entorno simulado; no existe todavía una segunda release española real.",
+    "No se han recorrido todas las combinaciones ni todas las pantallas del juego."
+  ]
+}

@@ -1,0 +1,10 @@
+#!/bin/bash
+# Resolver el enlace del comando sin depender del directorio de la terminal.
+SOURCE="${BASH_SOURCE[0]}"
+while [ -L "$SOURCE" ]; do
+    DIRECTORY="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+    SOURCE="$(readlink "$SOURCE")"
+    [[ "$SOURCE" != /* ]] && SOURCE="$DIRECTORY/$SOURCE"
+done
+DIRECTORY="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+exec /usr/bin/python3 "$DIRECTORY/pvz_fusion_es.py" "$@"

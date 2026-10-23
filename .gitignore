@@ -1,0 +1,7 @@
+*.zip
+copias_seguridad/
+__pycache__/
+.DS_Store
+._*
+version.json
+actualizacion.log
